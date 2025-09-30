@@ -161,7 +161,7 @@ mindmap
 
 ### 📋 Detailed Roadmap
 
-<table>
+<table color="white">
   <tr>
     <th>🤖 AI Development</th>
     <th>🕶️ VR/AR Apps</th>
