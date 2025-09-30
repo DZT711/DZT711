@@ -128,32 +128,58 @@
 
 ### 🚀 My Development Journey
 
-</div>
+<br>
 
-```mermaid
-mindmap
-  root((Huy's Goals 🎯))
-    🤖 AI & ML
-      💬 Chatbots
-      🧠 Machine Learning
-      🔬 Deep Learning
-      📊 Data Science
-    🕶️ VR/AR
-      🎮 Unity Development
-      🗿 3D Modeling
-      🌐 Immersive Apps
-      👓 Mixed Reality
-    ☁️ Cloud & DevOps
-      ☁️ AWS/Azure
-      🐳 Docker
-      ⚙️ CI/CD
-      🔄 Kubernetes
-    🎨 UI/UX
-      🎨 Figma
-      📐 Design Systems
-      👥 User Research
-      ✨ Prototyping
-```
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🤖 AI & ML
+**Artificial Intelligence**
+
+🔹 Chatbots  
+🔹 Machine Learning  
+🔹 Deep Learning  
+🔹 Data Science  
+
+</td>
+<td width="25%" align="center">
+
+### 🕶️ VR/AR
+**Virtual & Augmented Reality**
+
+🔹 Unity Development  
+🔹 3D Modeling  
+🔹 Immersive Apps  
+🔹 Mixed Reality  
+
+</td>
+<td width="25%" align="center">
+
+### ☁️ Cloud & DevOps
+**Cloud Computing**
+
+🔹 AWS/Azure  
+🔹 Docker  
+🔹 CI/CD  
+🔹 Kubernetes  
+
+</td>
+<td width="25%" align="center">
+
+### 🎨 UI/UX
+**Design & User Experience**
+
+🔹 Figma  
+🔹 Design Systems  
+🔹 User Research  
+🔹 Prototyping  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
