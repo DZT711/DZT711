@@ -185,7 +185,7 @@ mindmap
     <td align="center">
       🎮 Game Engines<br>
       🎨 Asset Creation<br>
-      🎵 Sound Design<br>
+      <!-- 🎵 Sound Design<br> -->
       🕹️ Gameplay
     </td>
     <td align="center">
