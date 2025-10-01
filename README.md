@@ -64,7 +64,7 @@
         </a>
       </p>
       <p align="center">
-        A comprehensive web application for car business management featuring a modern UI and robust functionality. Built with Java, JSP, and MySQL.
+        A comprehensive web application for car business management featuring a modern UI and robust functionality. Built with HTML/CSS, JavaScript, PHP and MySQL.
       </p>
     </td>
     <td width="50%">
@@ -75,7 +75,7 @@
         </a>
       </p>
       <p align="center">
-        A Java-based store management system implementing efficient database operations and intuitive user interface.
+        A Java-based store management system implementing efficient database operations and intuitive user interface . Project using JBDC to connect MySQL database.
       </p>
     </td>
   </tr>
