@@ -328,7 +328,7 @@ mindmap
 
 ---
 
-<img src="https://raw.githubusercontent.com/DZT711/DZT711/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
