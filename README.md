@@ -328,6 +328,10 @@ mindmap
 
 ---
 
+<img src="https://raw.githubusercontent.com/DZT711/DZT711/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
 **⭐️ From [DZT711](https://github.com/DZT711) with ❤️**
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
