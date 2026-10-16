@@ -107,6 +107,23 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🤖 Gemini Dev Chatbot</h3>
+      <p align="center">
+        <a href="https://github.com/DZT711/GeminiDevChatbot" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+      </p>
+      <p align="center">
+        A full-stack AI chat assistant for developers with streaming responses, multi-provider model support, session management, JWT auth and RAG-based knowledge search.
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🗺️ Smart Tourism QR Platform</h3>
       <p align="center">
         <a href="https://github.com/DZT711/Smart-Tourism-MAUI" target="_blank">
@@ -123,66 +140,59 @@
         A tourism platform that uses QR codes to deliver location info and interactive experiences, built on a modern .NET web stack with a MySQL backend.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📦 Office Supplies Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Desktop_App-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop App"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-        <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WinForms"/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-      </p>
-      <p align="center">
-        A desktop management system for office supplies with full CRUD operations, built with C# WinForms and a SQL Server database.
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💾 Distributed Database Practice Collection</h3>
+      <h3 align="center">🦙 Ollama Colab Hosting</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Database_Practice-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Practice"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-        <img src="https://img.shields.io/badge/Distributed_DB-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Distributed Databases"/>
-        <img src="https://img.shields.io/badge/Query_Optimization-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="Query Optimization"/>
-      </p>
-      <p align="center">
-        A collection of hands-on exercises exploring distributed databases, SQL querying, and query optimization techniques.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧪 AntiGravity Experiments</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Experimental-FFA500?style=for-the-badge&logo=rocket&logoColor=white" alt="Experimental"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AntiGravity_IDE-2E9EF7?style=flat-square&logo=visualstudiocode&logoColor=white" alt="AntiGravity IDE"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Ecosystem"/>
-        <img src="https://img.shields.io/badge/Cross--platform-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Cross-platform"/>
-      </p>
-      <p align="center">
-        Experiments built with the AntiGravity IDE, exploring the .NET ecosystem and cross-platform development workflows.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚗 Car Business Website</h3>
-      <p align="center">
-        <a href="https://github.com/DZT711/Webbanoto" target="_blank">
+        <a href="https://github.com/DZT711/Ollama-Ngrok" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+        <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white" alt="ngrok"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
       </p>
       <p align="center">
-        A comprehensive web application for car business management featuring a modern UI and robust functionality. Built with HTML/CSS, JavaScript, PHP and MySQL.
+        Runs and hosts Ollama on Google Colab with ngrok for remote access, plus an interactive model manager that browses Ollama, Hugging Face and LM Studio models.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌧️ Raining ThreeJS</h3>
+      <p align="center">
+        <a href="https://github.com/DZT711/Raining-ThreeJS" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+      </p>
+      <p align="center">
+        A cinematic 3D rain simulation with 15,000 animated particles, atmospheric fog and wind-driven motion, rendered full-screen with WebGL.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚗 Car Showroom Website</h3>
+      <p align="center">
+        <a href="https://github.com/DZT711/Car-Showroom-Website" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      </p>
+      <p align="center">
+        A modern car showroom web app with a responsive UI, built with TypeScript and Vite and designed in Figma.
       </p>
     </td>
     <td width="50%">
